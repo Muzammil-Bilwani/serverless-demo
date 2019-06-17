@@ -1,0 +1,15 @@
+{
+  "name": "mail-server",
+  "version": "1.0.0",
+  "description": "AWS Lambda mail send",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muzammil Bilwani",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "email-engine": "^1.1.5"
+  }
+}
